@@ -168,3 +168,4 @@ const charmander = new Pokemon("Charmander", "🔥", 90, [
 
 console.log();
 play();
+console.log("test");
